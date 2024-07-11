@@ -9,7 +9,7 @@ from data import load_dataset
 from model import AlexNet, LeNet, GoogleNet, VGG16, ResNet50, EfficientNet
 
 INDEX = 0
-
+# 打通了Git之路
 
 class Niubility:
     def __init__(self, args, logger):
